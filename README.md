@@ -97,4 +97,4 @@ This Code of Conduct is heavily based on the [LGBTQ in Tech Code of Conduct](htt
 
 ## Governance
 
-This list is designed to be a community effort.
+This list is designed to be a community effort.  Initially we are using a select group of trusted people in the community to get this off the ground.  We are looking for your feedback on a fair governance structure that represents the community,  not a select group of self appointed people.  We value a open,  transparent and fair mechanism for new administrators to join that is representative of the community.
